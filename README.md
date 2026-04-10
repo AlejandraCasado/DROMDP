@@ -3,4 +3,4 @@ In the last few decades, graph domination problems have attracted the attention 
 # Datasets
 The testbed of instances is divided into two different subsets, both composed of instances from the Harwell–Boeing library. On the one hand, there are 117 instances directly derived from the state of the art for the DROMDP. On the other hand, we propose a new set of 25 more challenging instances, with size from 3466 to 15439 nodes to analyze the limits of the compared algorithms.
 # Code
-The source code is available at the package "Code", as well as the the code executables. Additionally, an Excel file with the tables of the experiments results can be find in the experiments folder.
+The source code is available at the package "Code", and the executable is provided as DROMDP.jar. Additionally, an Excel file with the tables of the experiments results can be find in the experiments folder.
