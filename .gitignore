@@ -1,10 +1,16 @@
 # Compiled class file
 *.class
 
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
 # Log file
 *.log
-*.DS_Store
-*.Rhistory
 
 # BlueJ files
 *.ctxt
